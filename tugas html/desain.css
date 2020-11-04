@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    background-color: #cbaf87;
+    font-family: 'Lucida Sans Regular';
+    font-size: 20px;   
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.header{
+    background-color: #d9c6a5;
+    height: 80.5px;
+    color: black;
+    margin: 0;
+}
+.header-logo{
+    background: #c2ae8b;
+    float: left;
+    padding: 20px 40px;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 0;
+}
+.header-banner{
+    margin: 0;
+}
+.header-list{
+    margin: 0;
+    text-decoration: none;
+}
+.header-list li{
+    float: left;
+    padding: 29px 20px;
+    font-family: Verdana;
+}
+.header-list li:hover{
+    background: #c2ae8b;
+}
+.get{
+    text-align: center;
+    letter-spacing: 5px;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ttg1, .sej1, .kol1, .ritel1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ttg, .sej, .kol, .ritel{
+    text-align: center;
+    letter-spacing: 10px;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+.ttg2{
+    font-size: 14px;
+    text-align: center;
+    font-family: Verdana;
+}
+.sej2{
+    font-size: 14px;
+    text-align: center;
+    font-family: Verdana;
+}
+.kol2{
+    font-size: 14px;
+    text-align: center;
+    font-family: Verdana; 
+}
+.ritel2{
+    font-size: 14px;
+    text-align: center;
+    font-family: Verdana;   
+}
+.footer{
+    background-color: #d9c6a5;
+    color: black;
+    height: 110px;
+    padding: 40px;
+}
+.footer-logo{
+    font-size: 36px;
+    font-weight: bold;
+}
+.footer-title{
+    font-size: 22px;
+}
+.footer-main{
+    font-size: 14px;
+    font-weight: lighter;
+}
+.judul1
+{
+    font-size: 15px;
+    font-family: Helvetica;
+}
+.judul0
+{
+    font-size: 24px;
+    font-family: Helvetica;
+}
+.alamat0
+{
+    font-size: px;
+    font-family: 'Lucida Sans';
+    font-weight: lighter;
+}
+.alamat
+{
+    font-size: 12px;
+    font-family: Verdana;
+    color: #290001;
+}
+
